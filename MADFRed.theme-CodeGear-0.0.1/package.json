@@ -1,0 +1,38 @@
+{
+	"name": "MADFRed-Codegear-Theme",
+	"displayName": "MADFRed CodeGear theme",
+	"description": "A funnny theme pasted from my CodeGear color environment.",
+	"version": "0.0.1",
+	"publisher": "FJdeLeon",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fjdeleon/MADFRed-Dark-CodeGear-Theme.git"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MADFREd Dark CodeGear Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MADFRed-Dark-codegear-Theme.json"
+			},
+			{
+				"label": "MADFRed Light CodeGear Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MADFRed-Light-codegear-Theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "FJdeLeon"
+	}
+}
+
