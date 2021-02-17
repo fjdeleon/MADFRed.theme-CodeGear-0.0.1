@@ -12,7 +12,7 @@ Enjoit and give me your suport... thumbup!
 
 | Scope                | Color                                                    | HEX       | 
 | -------------------- | ------------------------------------------------------   | -------   | 
-| Background           | ![#0F1113C5](https://placehold.it/35/0F1113C5/?tex=+)    | #6B6E7E   | 
+| Background           | ![#0F1113C5](https://placehold.it/35/0F1113C5/?tex=+)    | #0F1113C5   | 
 | Foreground           | ![#6B6E7E](https://placehold.it/35/6B6E7E/?text=+)       | #6B6E7E   | 
 | Comment              | ![#6F8A0EC9](https://placehold.it/35/6F8A0EC9/?text=+)   | #6F8A0EC9 | 
 | Method               | ![#12993F](https://placehold.it/35/12993F/?text=+)       | #12993F   | 
@@ -30,17 +30,17 @@ Enjoit and give me your suport... thumbup!
 
 Follow the proyect on GitHub.. https://github.com/FJdeLeon
 
-![html](\screenshots\.png)
+![html]()
 
-![css](\screenshots\.png)
+![css]()
 
 ![js](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/js.png)
 
 ![php](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/php.png)
 
-![py](\screenshots\.png)
+![py]()
 
-![rb](\screenshots\.png)
+![rb]()
 
 ![CodeGear](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/CodeGear.png)
 
