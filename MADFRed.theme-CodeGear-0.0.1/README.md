@@ -2,7 +2,7 @@
 
 ### Wait wait... whot?
 
-A friendly dark theme obtained from my CodeGear color set environment, adapted for my Visual Studio Code.
+A friendly dark theme obtained from my <kbd>CodeGear</kbd> color set environment, adapted for my Visual Studio Code.
 
 Not to much to say, this theme pretends to be friendly for all those guys that love his eyes..
 
@@ -30,24 +30,16 @@ Enjoit and give me your suport... thumbup!
 
 Follow the proyect on GitHub.. https://github.com/FJdeLeon
 
-![html](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/html.png)
+![html](https://raw.githubusercontent.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/html.png)
 
-![css](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/css.png)
+![css](https://raw.githubusercontent.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/css.png)
 
-![js](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/js.png)
+![js](https://raw.githubusercontent.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/js.png)
 
-![php](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/php.png)
+![php](https://raw.githubusercontent.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/php.png)
 
 ![py]()
 
 ![rb]()
 
-![CodeGear](https://github.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/blob/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/CodeGear.png)
-
-
-
-
-
-
-
-
+![CodeGear](https://raw.githubusercontent.com/fjdeleon/MADFRed.theme-CodeGear-0.0.1/gh-pages/MADFRed.theme-CodeGear-0.0.1/screenshots/CodeGear.png)
